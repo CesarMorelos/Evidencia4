@@ -1,0 +1,737 @@
+{
+	"estructura":{
+
+		"bloque1":{
+			"id":"b1",
+			"name":"Orden Ambiental",
+			
+			"leccion1":{
+				"id":"l1",
+				"name":"Cantando y ordenando una TIC para el ambiente.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b1l1a1",
+						"name":"Conociendo las partes de la computadora.",
+						"type":"Video",
+                        "instrucciones":"¡Cantemos juntos!",
+                        "recursos":{
+							"r1":{"name":"cancion_generico.mp4"}
+							
+						}
+					},
+					"a2":{
+						"id":"b1l1a2",
+						"name":"Dibujo oculto.",
+						"type":"Actividad",
+                        "instrucciones":"Da clic con el botón izquierdo del ratón y muévelo hasta que aparezca la imagen del fondo."
+					},
+					"a3":{
+						"id":"b1l1a3",
+						"name":"Arma la computadora.",
+						"type":"Actividad",
+                        "instrucciones":"Toma con el ratón, las imágenes que ves\nsobre el área roja y arrástralas hasta donde \nles corresponda."
+					}
+				}
+			},
+
+			"leccion2":{
+				"id":"l2",
+				"name":"Un proyecto ordenado.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b1l2a1",
+						"name":"Arrastra y suelta.",
+						"type":"Actividad",
+                         "instrucciones":"¡Da clic sobre los recuadros y arrástralos al lugar que les corresponde para formar la imagen!"
+					},
+					"a2":{
+						"id":"b1l2a2",
+						"name":"Figuras de Minisebran.",
+						"type":"Archivo",
+                        "instrucciones":"Pide a tu profesor(a) que te ayude a instalar el programa Minisebran. ",
+                        "recursos":{
+                            "r1":{"name":"      Minisebran","id":"minisebran.zip"},
+                            "r2":{"name":"Instalando\nminisebran XP.pdf","id":"Instalando minisebran XP.pdf"},
+                            "r3":{"name":"Instalando\nminisebran Vista y 7.pdf","id":"Instalando minisebran Vista y 7.pdf"}
+                        }
+					}
+				}
+			},
+
+			"leccion3":{
+				"id":"l3",
+				"name":"Sistema y orden ambiental.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b1l3a1",
+						"name":"Escritorio.",
+						"type":"Video",
+                        "instrucciones":"Escritorio – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+						"recursos":{
+							"r1":{"name":"escritorio_xp.mp4"},
+							"r2":{"name":"escritorio_vista.mp4"},
+							"r3":{"name":"escritorio_seven.mp4"},
+							"r4":{"name":"escritorio_81.mp4"}	
+						}
+					},
+					"a2":{
+						"id":"b1l3a2",
+						"name":"El Explorador de Windows.",
+						"type":"Video",
+                        "instrucciones":"Explorador – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+						"recursos":{
+							"r1":{"name":"explorador_xp.mp4"},
+							"r2":{"name":"explorador_vista.mp4"},
+							"r3":{"name":"explorador_seven.mp4"},
+							"r4":{"name":"explorador_81.mp4"}	
+						}
+					},
+					"a3":{
+						"id":"b1l3a3",
+						"name":"Organicemos la escuela.",
+						"type":"Actividad",
+                        "instrucciones":"Después del recreo quedó todo en desorden; ayúdame a clasificar todos esos objetos. Con el ratón coloca el puntero sobre el objeto y da clic en el botón izquierdo. Sin soltarlo, arrastra el elemento hasta la carpeta que le corresponde. Si lo clasificas bien, entrará a la carpeta. Si no, regresará a su lugar original. Da clic en el botón JUGUEMOS para empezar."
+					}
+				}
+			},
+
+			"leccion4":{
+				"id":"l4",
+				"name":"Minisebran para reforzar.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b1l4a1",
+						"name":"Juego de letras Minisebran.",
+						"type":"Archivo",
+                        "instrucciones":"Abre el programa Minisebran  en el juego letras, explóralo y después realiza el ejercicio de tu libro. ",
+                         "recursos":{
+                            "r1":{"name":"      Minisebran","id":"minisebran.zip"}
+                           
+                        }
+					},
+					"a2":{
+						"id":"b1l4a2",
+						"name":"Caballitos de mar.",
+						"type":"Actividad",
+                        "instrucciones":"Trata de atrapar el mayor número de caballitos de mar en el menor tiempo posible; para lograrlo sólo da doble clic sobre ellos."
+					},
+					"a3":{
+						"id":"b1l4a3",
+						"name":"Juego colores Minisebran.",
+						"type":"Archivo",
+                        "instrucciones":"Juega más con Minisebran. En la siguiente sección vas a recordar el nombre de color que selecciones.",
+                        "recursos":{
+                            "r1":{"name":"      Minisebran","id":"minisebran.zip"}
+                           
+                        }
+					},
+					"a4":{
+						"id":"b1l4a4",
+						"name":"Juego dibujar Minisebran.",
+						"type":"Archivo",
+                        "instrucciones":"En esta sección de Minisebran puedes dibujar, elegir el color que te guste o pintar con las plantillas.",
+                        "recursos":{
+                            "r1":{"name":"      Minisebran","id":"minisebran.zip"}
+                           
+                        }
+					}
+				}
+			},
+
+			"leccion5":{
+				"id":"l5",
+				"name":"Mi reglamento con WordPad.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b1l5a1",
+						"name":"Lo que puedo hacer en WordPad.",
+						"type":"Archivo",
+                        "instrucciones":"Descarga el archivo 'Lo que puedo hacer con WordPad' y realiza la actividad que se indica en el libro.",
+                        "recursos":{
+                            "r1":{"name":"Guía de apertura para el archivo\n“Lo que puedo hacer con WordPad“","id":"Lo que puedo hacer con WordPad.rtf"}
+                            
+                        }
+					},
+					"a2":{
+						"id":"b1l5a2",
+						"name":"Escribiendo con WordPad.",
+						"type":"Video",
+                        "instrucciones":"Escribiendo en WordPad\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                         "recursos":{
+							"r1":{"name":"escribiendoWordpad_xp.mp4"},
+							"r2":{"name":"escribiendoWordpad_vista.mp4"},
+							"r3":{"name":"escribiendoWordpad_seven.mp4"},
+							"r4":{"name":"escribiendoWordpad_81.mp4"}	
+							
+						}
+					},
+					"a3":{
+						"id":"b1l5a3",
+						"name":"Mi reglamento.",
+						"type":"Archivo",
+                        "instrucciones":"Descarga el archivo 'Mi reglamento' en el botón de abajo. Después sigue las instrucciones de la página 38 de tu libro.",
+                          "recursos":{
+                            "r1":{"name":"MI REGLAMENTO_Inicial","id":"MI REGLAMENTO_Inicial.rtf"},
+                            "r2":{"name":"MI REGLAMENTO_Terminado","id":"MI REGLAMENTO_Terminado.rtf"}
+                            
+                        }
+                        
+					},
+					"a4":{
+						"id":"b1l5a4",
+						"name":"Jugar a las canicas.",
+						"type":"Actividad",
+                        "instrucciones":"Da clic sobre las canicas y, sin soltar el ratón, coloca en el recipiente de la derecha las de color azul y en el de la izquierda las de color rojo en el menor tiempo posible."
+					},
+					"a5":{
+						"id":"b1l5a5",
+						"name":"Guardar en WordPad.",
+						"type":"Video",
+                        "instrucciones":"Guardar en Wordpad – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                        "recursos":{
+							"r1":{"name":"guardarenWordPad_xp.mp4"},
+							"r2":{"name":"guardarenWordPad_vista.mp4"},
+							"r3":{"name":"guardarenWordPad_seven.mp4"},
+							"r4":{"name":"guardarenWordPad_81.mp4"}	
+							
+						}
+					},
+					"a6":{
+						"id":"b1l5a6",
+						"name":"Encuentra la pareja.",
+						"type":"Actividad",
+                        "instrucciones":"Vamos a buscar pares en estas tarjetas. Da clic sobre una carta, para que se muestre la imagen, luego sobre otra para ver si son iguales. Vamos a jugar."
+					}
+				}
+			},
+
+			"leccion6":{
+				"id":"l6",
+				"name":"Compartiendo mi reglamento.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b1l6a1",
+						"name":"Guardar en una USB.",
+						"type":"Video",
+                         "instrucciones":"Guardar en USB – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                        "recursos":{
+							"r1":{"name":"guardarEnUSB_xp.mp4"},
+							"r2":{"name":"guardarEnUSB_vista.mp4"},
+							"r3":{"name":"guardarEnUSB_seven.mp4"},
+							"r4":{"name":"guardarEnUSB_81.mp4"}	
+							
+						}
+					},
+					"a2":{
+						"id":"b1l6a2",
+						"name":"Cuidar el medio ambiente.",
+						"type":"Actividad",
+                        "instrucciones":"Clasifiquemos la basura para cuidar nuestro medio ambiente."
+					}
+				}
+			},
+
+			"evaluacion":{
+                "id":"evb1"
+            }
+
+
+
+
+
+		},
+
+
+
+
+
+		"bloque2":{
+			"id":"b2",
+			"name":"Hablándole al mundo para que ame al ambiente",
+			
+			"leccion7":{
+				"id":"l7",
+				"name":"Tux y mis dedos veloces.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b2l7a1",
+						"name":"TuxTyping.",
+						"type":"Video",
+                        "instrucciones":"Tux Typing – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                        "recursos":{
+							"r1":{"name":"tuxTyping_xp.mp4"},
+							"r2":{"name":"tuxTyping_vista.mp4"},
+							"r3":{"name":"tuxTyping_seven.mp4"},
+							"r4":{"name":"tuxTyping_81.mp4"}	
+							
+						}
+					},
+					"a2":{
+						"id":"b2l7a2",
+						"name":"Cascada de pescado.",
+						"type":"Archivo",
+                        "instrucciones":" Pide a tu profesor(a) que te ayude a instalar TuxTyping. ",
+                         "recursos":{
+                            "r1":{"name":"          Tuxtyping","id":"TuxTyping.zip"}
+                            
+                        }
+					}
+				}
+			},
+
+			"leccion8":{
+				"id":"l8",
+				"name":"Creando un dibujo.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b2l8a1",
+						"name":"El cartel de Leo.",
+						"type":"Archivo",
+                        "instrucciones":"Éste es el cartel que Leo hizo. Observa el dibujo y descubrirás todo lo que se puede hacer en Microsoft Paint.",
+                         "recursos":{
+                            "r1":{"name":"   El cartel de Leo","id":"El Cartel de Leo.jpg"}
+                            
+                        }
+					},
+					"a2":{
+						"id":"b2l8a2",
+						"name":"Utilizando las herramientas de Paint.",
+						"type":"Video",
+                        "instrucciones":"Utilizando las herramientas de Paint – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                        "recursos":{
+							"r1":{"name":"herramientasDePaint_xp.mp4"},
+							"r2":{"name":"herramientasDePaint_vista.mp4"},
+							"r3":{"name":"herramientasDePaint_seven.mp4"},
+							"r4":{"name":"herramientasDePaint_81.mp4"}	
+							
+						}
+					},
+					"a3":{
+						"id":"b2l8a3",
+						"name":"Las ranas saltarinas.",
+						"type":"Actividad",
+                        "instrucciones":"Atrapa las ranas cuando estén saltando, da clic en ellas con el botón izquierdo. Y sin dejar de oprimirlo llévalas al agua. Ahí suéltalas. ¡Vamos a jugar!"
+					}
+				}
+			},
+
+			"leccion9":{
+				"id":"l9",
+				"name":"Un cadete espacial que ama el ambiente.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b2l9a1",
+						"name":"TuxTyping 'Words dos y Words tres'.",
+						"type":"Instruccion",
+                        "instrucciones":"Juega nuevamente con Cascada de Pescado en Tux Typing, pero ahora con Words dos y tres."
+					}
+				}
+			},
+
+			"leccion10":{
+				"id":"l10",
+				"name":"Mi cartel para que las personas amen al ambiente.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b2l10a1",
+						"name":"Dibujar y escribir con Paint.",
+						"type":"Video",
+                        "instrucciones":"Dibujar y escribir con Paint – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                        "recursos":{
+							"r1":{"name":"dibujarEscribirEnPaint_xp.mp4"},
+							"r2":{"name":"dibujarEscribirEnPaint_vista.mp4"},
+							"r3":{"name":"dibujarEscribirEnPaint_seven.mp4"},
+							"r4":{"name":"dibujarEscribirEnPaint_81.mp4"}	
+							
+						}
+					},
+					"a2":{
+						"id":"b2l10a2",
+						"name":"Copiar y pegar en Paint.",
+						"type":"Video",
+                        "instrucciones":"Copiar y pegar en Paint – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre  el ícono.",
+                        "recursos":{
+							"r1":{"name":"copiarPegarEnPaint_xp.mp4"},
+							"r2":{"name":"copiarPegarEnPaint_vista.mp4"},
+							"r3":{"name":"copiarPegarEnPaint_seven.mp4"},
+							"r4":{"name":"copiarPegarEnPaint_81.mp4"}	
+							
+						}
+					},
+					"a3":{
+						"id":"b2l10a3",
+						"name":"Imágenes para colorear.",
+						"type":"Archivo",
+                        "instrucciones":"Ingresa a la zona de Descarga o haz clic sobre el archivo y obten las Imágenes para colorear en Paint. ",
+                        "recursos":{
+                            "r1":{"name":"Imagenes para colorear","id":"Imagenes para colorear.zip"}
+                            
+                        }
+					}
+				}
+			},
+
+			"leccion11":{
+				"id":"l11",
+				"name":"Letras del teclado, letras del cartel.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b2l11a1",
+						"name":"Busca la letra.",
+						"type":"Actividad",
+                         "instrucciones":"Completa la palabra que corresponde a la imagen. Arrastra la letra que completa la palabra, al lugar que tú creas le pertenece. Si la letra no es la correcta, ésta letra regresa a su lugar original. ¡Juguemos!"
+					}
+				}
+			},
+
+			"leccion12":{
+				"id":"l12",
+				"name":"Un mensaje para amar al ambiente.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b2l12a1",
+						"name":"El cartel de Ricky.",
+						"type":"Video",
+                        "instrucciones":"El Cartel de Ricky – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"elCartelDeRicky_xp.mp4"},
+							"r2":{"name":"elCartelDeRicky_vista.mp4"},
+							"r3":{"name":"elCartelDeRicky_seven.mp4"},
+							"r4":{"name":"elCartelDeRicky_81.mp4"}	
+							
+						}
+					},
+					"a2":{
+						"id":"b2l12a2",
+						"name":"Ponerle nombre a la imagen.",
+						"type":"Actividad",
+                        "instrucciones":"Completa la palabra que corresponde a la imagen. Arrastra la letra que completa la palabra, al lugar que tú creas le pertenece. Si la letra no es la correcta, ésta letra regresa a su lugar original. ¡Juguemos!"
+					}
+				}
+			},
+
+			"evaluacion":{
+                 "id":"evb2"
+            }
+
+
+
+
+
+		},
+
+
+
+
+		"bloque3":{
+			"id":"b3",
+			"name":"Todos merecemos un mundo mejor",
+			
+			"leccion13":{
+				"id":"l13",
+				"name":"Todos merecemos un mundo mejor.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b3l13a1",
+						"name":"El cuento de Pau.",
+						"type":"Archivo",
+                        "instrucciones":"Descarga el cuento de Pau. Léelo y observa lo que puedes hacer con Word.",
+                        "recursos":{
+                            "r1":{"name":"El cuento de Pau","id":"cuento_de Pau.doc"}
+                            
+                        }
+					},
+					"a2":{
+						"id":"b3l13a2",
+						"name":"Todos merecemos un mundo mejor.",
+						"type":"Actividad",
+                        "instrucciones":"Lee con atención el siguiente cuento."
+					},
+					"a3":{
+						"id":"b3l13a3",
+						"name":"Ordenemos el cuento.",
+						"type":"Actividad",
+                        "instrucciones":"Ordena las siguientes imágenes, de acuerdo con lo que viste en el cuento. Da clic sobre la imagen con el botón izquierdo, arrástrala hasta donde tú crees que debe estar y una vez ahí, suéltala. Si tu elección no es correcta la imagen regresa a su lugar original. ¡Juguemos!"
+					},
+					"a4":{
+						"id":"b3l13a4",
+						"name":"Completemos oraciones.",
+						"type":"Actividad",
+                         "instrucciones":"Coloca sobre las líneas las palabras que completen los siguientes párrafos. Da clic sobre la palabra con el botón izquierdo, arrástrala hasta donde tú crees que debe estar y una vez ahí, suéltala. ¡Juguemos!"
+					},
+					"a5":{
+						"id":"b3l13a5",
+						"name":"Grupo fuente.",
+						"type":"Video",
+                        "instrucciones":"Grupo fuente – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"grupoFuente_seven.mp4"},
+							"r2":{"name":"grupoFuente_81.mp4"}
+							
+						}
+					}
+				}
+			},
+
+			"leccion14":{
+				"id":"l14",
+				"name":"Imágenes e inventos para mi mundo.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b3l14a1",
+						"name":"Vivir mejor.",
+						"type":"Archivo",
+                        "instrucciones":"Haz clic en el texto para descargar las imágenes de Vivir mejor, elige las que te gusten y pégalas en la carpeta que tú decidas.",
+                        "recursos":{
+                            "r1":{"name":"Imágenes de Vivir mejor","id":"Vivir mejor.zip"}
+                            
+                        }
+					},
+					"a2":{
+						"id":"b3l14a2",
+						"name":"Insertar imágenes.",
+						"type":"Video",
+                        "instrucciones":"Insertar imagenes – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"insertarImagenes_seven.mp4"},
+							"r2":{"name":"insertarImagenes_81.mp4"}
+							
+						}
+					},
+					"a3":{
+						"id":"b3l14a3",
+						"name":"Vamos a contar.",
+						"type":"Actividad",
+                        "instrucciones":"¡Arma tu bosque!  Sólo tienes que contar cuantas imágenes hay, en la parte inferior de la pantalla. Una vez que lo sepas, elige y arrastra el número que le corresponde. Coloca el número sobre las imágenes del lado izquierdo. Si estás en lo correcto, aparecerá la figura en el bosque. ¡Ahora empecemos a contar!"
+					}
+				}
+			},
+
+			"leccion15":{
+				"id":"l15",
+				"name":"Escribir mi cuento.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b3l15a1",
+						"name":"Grupo párrafo.",
+						"type":"Video",
+                         "instrucciones":"Grupo párrafo – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"grupoParrafo_seven.mp4"},
+							"r2":{"name":"grupoParrafo_81.mp4"}
+							
+							
+						}
+					},
+					"a2":{
+						"id":"b3l15a2",
+						"name":"Suma y escribe.",
+						"type":"Actividad",
+                        "instrucciones":"Cuenta cuántas canicas hay de cada color, y escribe el número en el recuadro que le corresponda. Si es correcto el número aparecerá una palomita. Para que te sea mas fácil contarlas, arrastra las canicas a la zona que le corresponde."
+					}
+				}
+			},
+
+			"leccion16":{
+				"id":"l16",
+				"name":"Mundo sin ruido, mundo mejor.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b3l16a1",
+						"name":"Insertar formas.",
+						"type":"Video",
+                        "instrucciones":"Insertar formas – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"insertarFormas_seven.mp4"},
+							"r2":{"name":"insertarFormas_81.mp4"}
+							
+							
+						}
+					},
+					"a2":{
+						"id":"b3l16a2",
+						"name":"El cuento incompleto.",
+						"type":"Actividad",
+                        "instrucciones":"Éste es el cuento de Alberto, pero está incompleto.\nEn la parte inferior del cuento hay imágenes que tú puedes elegir, para completarlo toma cada imagen con tu ratón, haciendo clic en ella con el botón izquierdo. Arrástrala hasta la línea correspondiente, ahí suéltala y observa cómo se completa el cuento."
+					}
+				}
+			},
+
+			"leccion17":{
+				"id":"l17",
+				"name":"El mundo necesita ayuda.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b3l17a1",
+						"name":"Insertar Tablas.",
+						"type":"Video",
+                        "instrucciones":"Insertar Tablas – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"insertarTablas_seven.mp4"},
+							"r2":{"name":"insertarTablas_81.mp4"}
+						
+							
+						}
+					},
+					"a2":{
+						"id":"b3l17a2",
+						"name":"Juega a poner los nombres.",
+						"type":"Archivo",
+                         "instrucciones":"Haz clic en el texto y sigue las instrucciones que se encuentran en el archivo.",
+                        "recursos":{
+                            "r1":{"name":"Juega a poner los nombres","id":"Juega a poner los nombres.docx"}
+                            
+                        }
+					}
+				}
+			},
+
+			"leccion18":{
+				"id":"l18",
+				"name":"El tamaño de la felicidad.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b3l18a1",
+						"name":"Modificar imágenes.",
+						"type":"Video",
+                        "instrucciones":"Modificar imágenes – Videotutorial\nPregunta a tu profesor qué sistema operativo tienes y da clic sobre el ícono.",
+                        "recursos":{
+							"r1":{"name":"modificarImagenes_seven.mp4"},
+							"r2":{"name":"modificarImagenes_81.mp4"}
+							
+							
+						}
+					},
+					"a2":{
+						"id":"b3l18a2",
+						"name":"Imágenes, letras y tablas.",
+						"type":"Actividad",
+                        "instrucciones":"Clasifica cada pieza de basura en la tabla de la derecha, una pieza de basura por cada celda. Coloca cada pieza en la columna que le corresponda, de acuerdo a si es orgánica, inorgánica o desecho peligroso. Solo tienes de arrastrar los elementos a la celda correspondiente."
+					},
+					"a3":{
+						"id":"b3l18a3",
+						"name":"Relaciona imágenes y palabras.",
+						"type":"Actividad",
+                        "instrucciones":"¿Recuerdas el memorama  anterior? Ahora tienes que encontrar la imagen y su nombre. Da clic para voltear cada carta. Busca el nombre o imagen de la carta que elegiste. ¡A divertirnos juntos!"
+					}
+				}
+			},
+
+			"evaluacion":{
+                 "id":"evb3"
+            }
+
+
+
+
+
+		},
+
+
+
+
+		"bloque4":{
+			"id":"b4",
+			"name":"Las TIC, mi recurso para cuidar el ambiente.",
+			
+			"leccion19":{
+				"id":"l19",
+				"name":"TIC con PowerPoint.",
+				
+				"actividades":{
+					"a1":{
+						"id":"b4l19a1",
+						"name":"Cuidado del planeta.",
+						"type":"Archivo",
+                        "instrucciones":"Abre la presentación en PowerPoint el 'Cuidado del planeta.' \nDescárgala dando un clic en el archivo. ",
+                        "recursos":{
+                            "r1":{"name":"Cuidado del planeta","id":"El cuidado del Planeta.ppt"}
+                            
+                        }
+					},
+					"a2":{
+						"id":"b4l19a2",
+						"name":"Conocer PowerPoint.",
+						"type":"Video",
+                        "instrucciones":"Conoce PowerPoint – Videotutorial",
+                        "recursos":{
+							"r1":{"name":"conocePowerPoint_seven.mp4"},
+                            "r2":{"name":"conocePowerPoint_81.mp4"}
+							
+							
+						}
+					},
+					"a3":{
+						"id":"b4l19a3",
+						"name":"MegaPik2.",
+						"type":"Archivo",
+                        "instrucciones":"Instrucciones para instalar: se abre la carpeta con el programa completo. Esta carpeta contiene todos los archivos del programa que debes copiar a la carpeta mis documentos.\nCon el Explorador de Windows o desde mi PC busca esta carpeta copiada, y haz clic sobre la aplicación 'MegaPik2.exe'.",
+                        "recursos":{
+                            "r1":{"name":"         MegaPick2","id":"megapik2.zip"}
+                            
+                        }
+					}
+				}
+			},
+
+			"leccion20":{
+				"id":"l20",
+				"name":"Las TIC y el cuidado del agua.",
+				
+				"actividades":{
+					"a1":{
+						"id":"",
+						"name":"Plantilla.",
+						"type":"Video",
+                        "instrucciones":"Plantillas – Videotutorial",
+                        "recursos":{
+							"r1":{"name":"plantillas_seven.mp4"},
+                            "r2":{"name":"plantillas_81.mp4"}
+							
+							
+						}
+					}
+				}
+			},
+
+			
+
+
+			
+
+			
+
+			"evaluacion":{
+                 "id":"evb4"
+            }
+
+
+
+
+
+		}
+
+
+
+
+	}
+
+}
